@@ -7,7 +7,7 @@ Tutorial MQTT Publish dengan node MCU esp8266
 
 ## Steps
 1. Install driver sesuai MCU
-2. Flash , caranya lihat di  
+2. Flash , caranya lihat di https://github.com/maxiluckiesgin/esp8266-mqtt/tree/master/firmware
 3. Buka Esplorer, pada kolom sebelah kanan pilih serial port (COMxx) , pilih baud rate 9600, klik open
 4. Tekan tombol reset pada MCU hingga tampilan ESPlorer menunampilkan "cannot open init.lua"
 5. Buka file init.lua dari repository ini dengan ESPlorer
